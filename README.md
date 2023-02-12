@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/ElanYoung/vite-vue2-js-template-starter" target="_blank">Vite 3 🚀 - Vue 2  Starter Template</a></h1>
+<h1 align="center"><a href="https://github.com/elkon028/vite-vue2-template" target="_blank">Vite 3 🚀 - Vue 2  Starter Template</a></h1>
 
 <p align="center">
   <a href="https://nodejs.org/en/about/releases/">
@@ -16,7 +16,7 @@
   <a href="https://github.com/vuejs/vuex">
     <img src="https://img.shields.io/badge/vuex-3.6.2-brightgreen.svg" alt="vuex" />
   </a>
-  <a href="https://doc.starimmortal.com">
+  <a href="https://github.com/elkon028/vite-vue2-template">
     <img alt="author" src="https://img.shields.io/badge/author-Elkon-blue.svg" />
   </a>
   <a href="https://github.com/elkon028/vite-vue2-template/blob/master/LICENSE">
@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://elanyoung.github.io/vite-vue2-js-starter-template">Live Demo</a>
+  <a href="https://elkon028.github.io/vite-vue2-js-starter-template">Live Demo</a>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ If you prefer to do it manually with the cleaner git history
 git config --global core.autocrlf input
 
 # clone repository
-git clone https://github.com/elkon028/vite-vue2-template
+git clone git@github.com:elkon028/vite-vue2-template.git
 
 # open folder vite-vue2-js-starter-template
 cd vite-vue2-js-starter-template
