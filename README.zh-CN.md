@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://elkon028.github.io/vite-vue2-js-starter-template">在线 Demo</a>
+  <a href="https://elkon028.github.io/vite-vue2-template">在线 Demo</a>
 </p>
 
 <p align="center">
@@ -44,9 +44,7 @@
 + 📦 [Vuex](https://v3.vuex.vuejs.org/zh) - 一个专为 Vue.js 应用程序开发的状态管理模式
 + 🎨 [Less](https://less.bootcss.com/) - CSS 预处理器
 + 🔗 [Axios](https://axios-http.com/zh/) - 一个基于 promise 的网络请求库，可以用于浏览器和 node.js
-+ 🧰 [Husky](https://typicode.github.io/husky/#/) + [Lint-Staged](https://github.com/okonet/lint-staged) - Git Hook 工具
 + 🛡️ [EditorConfig](http://editorconfig.org) + [ESLint](http://eslint.cn) + [Prettier](https://prettier.cn) + [Stylelint](https://stylelint.cn) + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#translation) - 代码规范
-+ 🔨 [Commitizen](https://cz-git.qbb.sh/zh) + [Commitlint](https://commitlint.js.org) - 提交规范
 
 
 ## 编码风格
@@ -86,7 +84,7 @@ git config --global core.autocrlf input
 git clone git@github.com:elkon028/vite-vue2-template.git
 
 # 打开文件夹
-cd vite-vue2-js-starter-template
+cd vite-vue2-template
 
 # 安装依赖
 npm i
@@ -123,10 +121,6 @@ npm run dev
 ## 构建
 npm run build
 ```
-
-## 成就
-
-🎉 被 [Awesome Vite.Js](https://github.com/vitejs/awesome-vite#vue-2) 社区收录啦~
 
 ## 开源协议
 

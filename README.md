@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://elkon028.github.io/vite-vue2-js-starter-template">Live Demo</a>
+  <a href="https://elkon028.github.io/vite-vue2-template">Live Demo</a>
 </p>
 
 <p align="center">
@@ -44,9 +44,8 @@
 + 📦 [Vuex](https://github.com/vuejs/vuex) - A a state management pattern + library
 + 🎨 [Less](https://github.com/less/less.js) - It's CSS, with just a little more
 + 🔗 [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-+ 🧰 [Husky](https://typicode.github.io/husky/#/) + [Lint-Staged](https://github.com/okonet/lint-staged) - Git Hook Tools
+
 + 🛡️ [EditorConfig](http://editorconfig.org) + [ESLint](http://eslint.org) + [Prettier](https://prettier.io) + [Stylelint](https://stylelint.io) + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#translation) - Code Standards
-+ 🔨 [Commitizen](https://cz-git.qbb.sh/zh) + [Commitlint](https://commitlint.js.org) - Submit Standards
 
 ## Coding Style
 
@@ -85,7 +84,7 @@ git config --global core.autocrlf input
 git clone git@github.com:elkon028/vite-vue2-template.git
 
 # open folder vite-vue2-js-starter-template
-cd vite-vue2-js-starter-template
+cd vite-vue2-template
 
 # install packages
 npm i
@@ -122,10 +121,6 @@ npm run dev
 ## build
 npm run build
 ```
-
-## Achievement
-
-🎉 Added to the [Awesome Vite.Js](https://github.com/vitejs/awesome-vite#vue-2)
 
 ## License
 
