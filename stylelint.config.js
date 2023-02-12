@@ -1,7 +1,7 @@
 module.exports = {
   root: true,
   defaultSeverity: 'error',
-  plugins: ['stylelint-order', 'stylelint-less'],
+  plugins: ['stylelint-order', 'stylelint-scss'],
   extends: [
     'stylelint-config-standard', // the standard shareable config for Stylelint
     'stylelint-config-html/html', // the shareable html config for Stylelint.
@@ -49,7 +49,7 @@ module.exports = {
     // 要求或禁止在规则之前的空行
     'rule-empty-line-before': ['always', { ignore: ['after-comment', 'first-nested'] }],
     // 指定字符串使用单引号
-    'string-quotes': 'single',
+    // 'string-quotes': 'single',
     // 指定@规则名的大小写
     'at-rule-name-case': 'lower',
     // 指定缩进
@@ -68,12 +68,8 @@ module.exports = {
       },
     },
     {
-      files: ['*.less', '**/*.less'],
-      customSyntax: 'postcss-less',
-      rules: {
-        'less/color-no-invalid-hex': true,
-        'less/no-duplicate-variables': true,
-      },
+      files: ['*.scss', '**/*.scss'],
+      customSyntax: 'postcss-scss',
     },
   ],
 }

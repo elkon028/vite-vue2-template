@@ -83,7 +83,7 @@ git config --global core.autocrlf input
 # clone repository
 git clone git@github.com:elkon028/vite-vue2-template.git
 
-# open folder vite-vue2-js-starter-template
+# open folder vite-vue2-template
 cd vite-vue2-template
 
 # install packages
