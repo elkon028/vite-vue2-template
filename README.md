@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/vuex-3.6.2-brightgreen.svg" alt="vuex" />
   </a>
   <a href="https://doc.starimmortal.com">
-    <img alt="author" src="https://img.shields.io/badge/author-ElanYoung-blue.svg" />
+    <img alt="author" src="https://img.shields.io/badge/author-Elkon-blue.svg" />
   </a>
-  <a href="https://github.com/ElanYoung/vite-vue2-js-starter-template/blob/master/LICENSE">
-    <img alt="LICENSE" src="https://img.shields.io/github/license/ElanYoung/vite-vue2-js-starter-template.svg" />
+  <a href="https://github.com/elkon028/vite-vue2-template/blob/master/LICENSE">
+    <img alt="LICENSE" src="https://img.shields.io/github/license/elkon/vite-vue2-js-starter-template.svg" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/ElanYoung/vite-vue2-js-starter-template/generate).
+[Create a repo from this template on GitHub](https://github.com/elkon028/vite-vue2-template/generate).
 
 ### Clone to local
 
@@ -82,7 +82,7 @@ If you prefer to do it manually with the cleaner git history
 git config --global core.autocrlf input
 
 # clone repository
-git clone https://github.com/ElanYoung/vite-vue2-js-starter-template
+git clone https://github.com/elkon028/vite-vue2-template
 
 # open folder vite-vue2-js-starter-template
 cd vite-vue2-js-starter-template
@@ -131,4 +131,4 @@ npm run build
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2022 ElanYoung
+Copyright (c) 2023 Elkon
